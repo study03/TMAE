@@ -30,7 +30,7 @@ XiAn
 python train.py
 ```
 
-2.test
+2. test
 ```
 python test.py
 ```
